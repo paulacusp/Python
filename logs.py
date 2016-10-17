@@ -11,7 +11,7 @@
 
 import os                   # Load the Library Module
 from time import strftime   # Load just the strftime Module from Time
-
+###############
 logsdir="c:\puttylogs"      # Set the Variable logsdir
 zip_program="zip.exe"       # Set the Variable zip_program - 1.1
 
