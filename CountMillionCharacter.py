@@ -1,6 +1,6 @@
 import pprint
 info = '''SCENE I. Yorkshire. Gaultree Forest.
-
+####################################################
 Enter the ARCHBISHOP OF YORK, MOWBRAY, LORD HASTINGS, and others
 ARCHBISHOP OF YORK
 What is this forest call'd?
