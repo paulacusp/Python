@@ -29,3 +29,4 @@ for file_name in open(conffilename): 									  # Walk through the configuration
     sourcefile = os.path.join(sourcedir, fname)		# Get the name of the source files to backup
     destfile = os.path.join(destdir, fname) 			# Get the name of the destination file names
     shutil.copytree(sourcefile, destfile)								  	# Copy the directories
+###################
